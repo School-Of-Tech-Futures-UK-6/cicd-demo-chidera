@@ -10,6 +10,10 @@ const phrases = [
     {
         content: "Don't let yesterday take up too much of today.",
         author: "Will Rogers"
+    },
+    {
+        content: "Test content",
+        author: "Test author"
     }
 ]
 
